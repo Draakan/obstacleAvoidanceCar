@@ -1,4 +1,4 @@
 # obstacleAvoidanceCar
 a simple project with arduino
 
-![alt text](https://drive.google.com/file/d/17X-Szo5wlrZ2_CbgAhV-41XWd3yNhJsQ)
+![alt text](IMG_20200226_092404.jpg)
